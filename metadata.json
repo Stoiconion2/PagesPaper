@@ -1,0 +1,7 @@
+{
+  "name": "하와유 스마트스토어 상세페이지 도우미",
+  "description": "네이버 스마트스토어 '하와유' 신제품 상세페이지 초안 작성 및 원고 생성 도우미",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
